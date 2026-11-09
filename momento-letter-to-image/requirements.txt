@@ -1,0 +1,12 @@
+# flux_lora/.venv 에서 검증된 버전 (torch는 NGC 컨테이너 기본 2.7.0)
+torch>=2.7
+diffusers==0.37.1
+transformers==4.55.2
+accelerate==1.10.1
+peft==0.17.1
+safetensors==0.5.3
+sentencepiece==0.2.0
+protobuf==4.24.4
+pillow==11.1.0
+fastapi==0.116.1
+uvicorn
